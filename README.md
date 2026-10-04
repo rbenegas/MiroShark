@@ -1,4 +1,7 @@
-<p align="center">
+### Architecture & Simulation Context
+I utilize `MiroShark`'s swarm intelligence capabilities to run complex, multi-agent simulations. This framework allows me to model highly volatile market conditions to stress-test my quantitative trading algorithms prior to live execution, as well as to simulate distributed threat modeling scenarios against enterprise cloud architectures.
+
+---<p align="center">
   <img src="./docs/images/miroshark-logo.jpg" alt="MiroShark" width="120" />
 </p>
 
